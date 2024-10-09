@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj",
         "projectName": "Interpolation",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\Interpolation.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Interpolation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

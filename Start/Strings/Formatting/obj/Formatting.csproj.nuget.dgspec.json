@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
         "projectName": "Formatting",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\Formatting.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Strings\\Formatting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

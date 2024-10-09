@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
         "projectName": "CreateFiles",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\CreateFiles.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\CreateFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

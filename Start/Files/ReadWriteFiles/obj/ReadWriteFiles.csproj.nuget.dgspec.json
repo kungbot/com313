@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "projectName": "ReadWriteFiles",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\ReadWriteFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
         "projectName": "FormatNumbers",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\FormatNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

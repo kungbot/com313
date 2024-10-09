@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj",
         "projectName": "Directories",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\Directories.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Files\\Directories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

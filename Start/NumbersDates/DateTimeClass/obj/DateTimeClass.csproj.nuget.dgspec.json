@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
         "projectName": "DateTimeClass",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\NumbersDates\\DateTimeClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

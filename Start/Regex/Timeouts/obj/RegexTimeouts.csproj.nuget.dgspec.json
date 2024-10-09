@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "projectName": "RegexTimeouts",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Timeouts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

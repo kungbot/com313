@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

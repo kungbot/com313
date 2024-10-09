@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
         "projectName": "Replacing",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\Replacing.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Regex\\Replacing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"

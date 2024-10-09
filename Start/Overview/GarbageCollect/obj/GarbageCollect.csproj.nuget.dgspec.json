@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {}
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {}
   },
   "projects": {
-    "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {
+    "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+        "projectUniqueName": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
         "projectName": "GarbageCollect",
-        "projectPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
+        "projectPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
         "packagesPath": "C:\\Users\\planm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
+        "outputPath": "C:\\Users\\planm\\Downloads\\Start\\Start\\Overview\\GarbageCollect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\planm\\AppData\\Roaming\\NuGet\\NuGet.Config"
